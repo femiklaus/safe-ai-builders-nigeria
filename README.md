@@ -85,8 +85,11 @@ A short, guided reading-and-discussion path drawn from open AI safety and govern
 People we plan to **approach** to speak or facilitate (not yet confirmed):
 
 - **Michael Akin-Ademola** — CTO at Algolog, with extensive hands-on experience building AI products.
+  - *Proposed topic:* engineering safe, reliable AI into real products — guardrails, human-in-the-loop review, grounding outputs, and shipping AI features users can actually trust.
 - **Abdul-Hadi Hashim** — an AI builder with Soft AI ([softai.ltd](https://softai.ltd)); his project won an Alibaba Cloud competition.
-- Guest speakers from partner organisations such as AI Safety Nigeria.
+  - *Proposed topic:* building and shipping generative AI products responsibly — handling user data and likeness, content risks, and what to watch for when AI generates on a user's behalf.
+- **Guest speakers from partner organisations** such as AI Safety Nigeria.
+  - *Proposed topic:* the wider AI safety and governance picture in Nigeria, and how builders fit into it.
 
 > Note: these are acquaintances and contacts we intend to invite. They have not yet agreed, and nothing here should be read as a confirmed commitment on their part.
 
