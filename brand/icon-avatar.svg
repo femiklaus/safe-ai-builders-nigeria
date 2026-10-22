@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" role="img" aria-label="Safe AI Builders Nigeria icon">
+  <rect width="400" height="400" rx="92" fill="#0B8A43"/>
+  <!-- white shield outline -->
+  <path d="M200 76 L298 114 V192 C298 256 258 300 200 324 C142 300 102 256 102 192 V114 Z"
+        fill="none" stroke="#FFFFFF" stroke-width="14"/>
+  <!-- white check + node -->
+  <path d="M156 198 L190 234 L262 144" fill="none" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="262" cy="144" r="13" fill="#FFFFFF"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-label="Safe AI Builders Nigeria banner">
+  <rect width="1500" height="500" fill="#0B8A43"/>
+  <!-- icon: white shield outline + check -->
+  <g transform="translate(110,150)">
+    <path d="M100 8 L182 40 V106 C182 160 150 198 100 220 C50 198 18 160 18 106 V40 Z" fill="none" stroke="#FFFFFF" stroke-width="11"/>
+    <path d="M60 112 L90 144 L150 68" fill="none" stroke="#FFFFFF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="150" cy="68" r="11" fill="#FFFFFF"/>
+  </g>
+  <!-- text -->
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text x="340" y="235" font-size="72" font-weight="800" fill="#FFFFFF" letter-spacing="-1">Safe AI Builders Nigeria</text>
+    <text x="344" y="290" font-size="30" font-weight="600" fill="#FFFFFF" opacity="0.85">A practitioner AI safety community — Abuja and across Nigeria</text>
+  </g>
+</svg>
